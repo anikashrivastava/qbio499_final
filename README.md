@@ -4,4 +4,4 @@
 
 ### Developed a U-net and CNN model for chest X-ray image classification 
 
-[Data availability:](https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/37178474737)
+[NIH Clinical Chest X-ray Dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/37178474737)
